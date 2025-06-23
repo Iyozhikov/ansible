@@ -1,0 +1,9 @@
+---
+####################################################
+###   GLOBAL COMMON SECTION  #######################
+####################################################
+ANSIBLE_TITLE: "This file is managed by ansible, all custom modifcations could be lost during next run!"
+# ssh user with sudo rights
+# ansible_user: 'CHANGE_ME'
+# ansible_ssh_pass: 'CHANGE_ME'
+# ansible_become_pass: 'CHANGE_ME'
